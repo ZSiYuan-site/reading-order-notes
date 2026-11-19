@@ -7,3 +7,5 @@
 - [Romance Authors Where You Can Start Anywhere: Emily Henry, Abby Jimenez and Kennedy Ryan](romance-authors-start-anywhere-1119/)
 
 - [CPSC Product Recalls by Hazard: A Practical Reading Guide](cpsc-product-recalls-guide/)
+
+- [Tana French Books in Order: Two Series and One Standalone](tana-french-two-series-1119c/)
