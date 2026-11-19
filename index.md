@@ -9,3 +9,5 @@
 - [CPSC Product Recalls by Hazard: A Practical Reading Guide](cpsc-product-recalls-guide/)
 
 - [Tana French Books in Order: Two Series and One Standalone](tana-french-two-series-1119c/)
+
+- [111 Free Printable Christmas Coloring Pages, Sorted by Theme](printable-christmas-coloring-themes-1119c/)
