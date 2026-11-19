@@ -15,3 +15,5 @@
 - [Christmas Coloring Pages by Theme: A Map of 16 Sets](free-printable-coloring-pages-guide/)
 
 - [Game Codes for Mobile Games: Where the Working List Comes From](mobile-game-codes-guide/)
+
+- [A Practical Method for Finding US Laws by the Day They Take Effect](us-law-effective-dates-1119/)
