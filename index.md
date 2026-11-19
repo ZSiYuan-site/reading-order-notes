@@ -11,3 +11,5 @@
 - [Tana French Books in Order: Two Series and One Standalone](tana-french-two-series-1119c/)
 
 - [111 Free Printable Christmas Coloring Pages, Sorted by Theme](printable-christmas-coloring-themes-1119c/)
+
+- [Christmas Coloring Pages by Theme: A Map of 16 Sets](free-printable-coloring-pages-guide/)
