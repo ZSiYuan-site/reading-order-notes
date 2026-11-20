@@ -17,3 +17,5 @@
 - [Game Codes for Mobile Games: Where the Working List Comes From](mobile-game-codes-guide/)
 
 - [A Practical Method for Finding US Laws by the Day They Take Effect](us-law-effective-dates-1119/)
+
+- [Classroom Coloring Pages for December: A Teacher Checklist With Printable Links](coloring-classroom-printables-1120/)
