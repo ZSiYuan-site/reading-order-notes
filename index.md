@@ -21,3 +21,5 @@
 - [Classroom Coloring Pages for December: A Teacher Checklist With Printable Links](coloring-classroom-printables-1120/)
 
 - [Medicare 2027: What Changed From 2026](medicare-2027-changes/)
+
+- [Publication Order or Series Order? A Practical Guide](authors-start-here-1120/)
