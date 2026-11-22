@@ -27,3 +27,5 @@
 - [Blox Fruits Values: Plan a fruit trade](bf-daily-1122-1/)
 
 - [Product Recalls: See what was recalled this month](rr-daily-1122-1/)
+
+- [Shibuya Roblox: Read the beginner guide](shibu-daily-1122-1/)
