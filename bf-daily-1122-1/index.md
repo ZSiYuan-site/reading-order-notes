@@ -4,11 +4,11 @@
 
 ## Blox Fruits Values: the short version
 
-If you plan a fruit trade, the fastest route is to open the pages that already keep this information up to date. This short guide collects the ones we use on blox-fruits.resuhive.com and explains what each is for. We rebuild the blox fruits values pages on a schedule, so the aim is to point at the current set rather than copy a list that will be stale next week. Open the links as you read and stop when you have the answer you came for.
+If you plan a fruit trade, the fastest route is to open the pages that keep this information up to date. This short guide collects the ones we use on blox-fruits.resuhive.com and explains what each is for. We rebuild the blox fruits values pages on a schedule, so the aim is to point at the current set rather than copy a list that will be stale next week. Open the links as you read and stop when you have the answer you wanted.
 
 ## Where to start
 
-The first stop is [blox fruits beli price](https://blox-fruits.resuhive.com/about). It gathers the current blox fruits values details in one place, which is why most readers begin there. If you already know the specific thing you need, go straight to it; the rest of this note is for people who want to understand how the list is built and how to read it without missing a detail. A checked or updated date on a page is worth noticing, because it tells you whether a figure is current or has moved since your last visit.
+The first stop is [blox fruits beli price](https://blox-fruits.resuhive.com/about). It gathers the current blox fruits values details in one place, which is why most readers begin there. If you know the specific thing you need, go straight to it; the rest of this note is for people who want to understand how the list is built and how to read it without missing a detail. A checked or updated date on a page is worth noticing, because it tells you whether a figure is current or has moved since your last visit.
 
 ## A second angle
 
@@ -30,7 +30,7 @@ The page at [leopard fruit price](https://blox-fruits.resuhive.com/values/leopar
 
 - If two pages disagree, follow the one that links to the original source.
 
-- Come back to the index when the answer you need is not on the page you opened first.
+- Come back to the index when the answer you want is not on the page you opened first.
 
 
 The blox fruits values set on blox-fruits.resuhive.com is built to be refreshed, not finished. Use these pages as a starting point and you will spend less time re-checking the same basic question. Every page answers a narrow question well, which is more useful than one very long article written for everyone.
