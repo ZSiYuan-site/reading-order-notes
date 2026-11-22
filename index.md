@@ -25,3 +25,5 @@
 - [Publication Order or Series Order? A Practical Guide](authors-start-here-1120/)
 
 - [Blox Fruits Values: Plan a fruit trade](bf-daily-1122-1/)
+
+- [Product Recalls: See what was recalled this month](rr-daily-1122-1/)
