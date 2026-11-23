@@ -33,3 +33,5 @@
 - [A Field Guide to Blox Fruits Values](bf-field-notes-1123-1/)
 
 - [A Field Guide to Recall Radar](recalls-field-notes-1123-1/)
+
+- [Four Blox Fruits Values Pages Worth Checking First](bf-pm-1123b-1/)
