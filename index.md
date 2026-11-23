@@ -31,3 +31,5 @@
 - [Shibuya Roblox: Read the beginner guide](shibu-daily-1122-1/)
 
 - [A Field Guide to Blox Fruits Values](bf-field-notes-1123-1/)
+
+- [A Field Guide to Recall Radar](recalls-field-notes-1123-1/)
