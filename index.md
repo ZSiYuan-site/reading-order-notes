@@ -35,3 +35,5 @@
 - [A Field Guide to Recall Radar](recalls-field-notes-1123-1/)
 
 - [Four Blox Fruits Values Pages Worth Checking First](bf-pm-1123b-1/)
+
+- [Product Recalls: A Practical Reading Guide](rr-pm-1123b-1/)
