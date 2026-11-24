@@ -41,3 +41,5 @@
 - [Blox Fruits Values A Practical Guide](bf-notes-1124/)
 
 - [Pips Answers A Practical Guide](pz-notes-1124/)
+
+- [Class Action Settlements A Practical Guide](st-notes-1124/)
