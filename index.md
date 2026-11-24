@@ -57,3 +57,5 @@
 - [State Law Watch: how to find what you need (11-24 no. 6)](lw-d1124/)
 
 - [Countdown Hub: a quick way to use it (11-24 no. 6)](cd-d1124/)
+
+- [Printable Worksheets: a quick way to use it (11-24 no. 6)](ws-d1124/)
