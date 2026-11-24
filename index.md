@@ -49,3 +49,5 @@
 - [Trivia Nook A Practical Guide](tv-notes-1124/)
 
 - [CPSC Recalls A Practical Guide](rc-notes-1124/)
+
+- [Printable Coloring Pages A Practical Guide](cph-notes-1124/)
