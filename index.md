@@ -53,3 +53,5 @@
 - [Printable Coloring Pages A Practical Guide](cph-notes-1124/)
 
 - [Monopoly GO Dice Links A Practical Guide](rwd-notes-1124/)
+
+- [State Law Watch: how to find what you need (11-24 no. 6)](lw-d1124/)
