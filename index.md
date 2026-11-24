@@ -39,3 +39,5 @@
 - [Product Recalls: A Practical Reading Guide](rr-pm-1123b-1/)
 
 - [Blox Fruits Values A Practical Guide](bf-notes-1124/)
+
+- [Pips Answers A Practical Guide](pz-notes-1124/)
