@@ -55,3 +55,5 @@
 - [Monopoly GO Dice Links A Practical Guide](rwd-notes-1124/)
 
 - [State Law Watch: how to find what you need (11-24 no. 6)](lw-d1124/)
+
+- [Countdown Hub: a quick way to use it (11-24 no. 6)](cd-d1124/)
