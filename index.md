@@ -61,3 +61,5 @@
 - [Printable Worksheets: a quick way to use it (11-24 no. 6)](ws-d1124/)
 
 - [Pips Answers: questions people ask (11-25 no. 6)](pz-d1125/)
+
+- [Settlement Lookup: questions people ask (11-25 no. 6)](st-d1125/)
