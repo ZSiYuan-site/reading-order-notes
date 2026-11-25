@@ -75,3 +75,5 @@
 - [State Law Watch: which page to open first (11-25 no. 6)](lw-d1125/)
 
 - [Countdown Hub: a short checklist (11-25 no. 6)](cd-d1125/)
+
+- [Printable Worksheets: a short checklist (11-25 no. 6)](ws-d1125/)
