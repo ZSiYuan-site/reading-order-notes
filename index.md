@@ -65,3 +65,5 @@
 - [Settlement Lookup: questions people ask (11-25 no. 6)](st-d1125/)
 
 - [Books in Order: how to find what you need (11-25 no. 6)](bk-d1125/)
+
+- [Trivia Nook: which page to open first (11-25 no. 6)](tv-d1125/)
