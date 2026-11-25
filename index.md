@@ -73,3 +73,5 @@
 - [ColorPageHub: which page to open first (11-25 no. 6)](cph-d1125/)
 
 - [State Law Watch: which page to open first (11-25 no. 6)](lw-d1125/)
+
+- [Countdown Hub: a short checklist (11-25 no. 6)](cd-d1125/)
