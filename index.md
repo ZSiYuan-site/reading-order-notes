@@ -59,3 +59,5 @@
 - [Countdown Hub: a quick way to use it (11-24 no. 6)](cd-d1124/)
 
 - [Printable Worksheets: a quick way to use it (11-24 no. 6)](ws-d1124/)
+
+- [Pips Answers: questions people ask (11-25 no. 6)](pz-d1125/)
