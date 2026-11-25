@@ -69,3 +69,5 @@
 - [Trivia Nook: which page to open first (11-25 no. 6)](tv-d1125/)
 
 - [Recall Radar: a quick way to use it (11-25 no. 6)](rc-d1125/)
+
+- [ColorPageHub: which page to open first (11-25 no. 6)](cph-d1125/)
