@@ -95,3 +95,5 @@
 - [ColorPageHub: a quick way to use it (11-26 no. 6)](cph-d1126/)
 
 - [State Law Watch: a quick way to use it (11-26 no. 6)](lw-d1126/)
+
+- [Countdown Hub: questions people ask (11-26 no. 6)](cd-d1126/)
