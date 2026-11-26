@@ -2,13 +2,13 @@
 
 A few notes from this week, with links to the pages that changed most. Today's NYT Pips hints and answers for November 25, 2026: gentle hints first, then the solved Easy, Medium and Hard boards. Updated every day. The [pips answers today](https://puzzles.newgamescout.com/) home page lists everything in one place, and the pages below are the ones worth opening today.
 
-## Pips Answer for September 27, 2025
-Pips hints and answers for September 27, 2025: step-by-step hints and the solved Easy, Medium and Hard boards, with where every domino goes. You can open it here: [Pips Answer for September 27, 2025](https://puzzles.newgamescout.com/answers/2025-09-27/).
-The page is split into 4 parts: Pips Easy answer, Sep 27; Pips Medium answer, Sep 27; Pips Hard answer, Sep 27; Questions. Start with the first one if you are short on time, and come back for the rest when you need the detail.
+## Pips Answer for April 18, 2026
+Pips hints and answers for April 18, 2026: step-by-step hints and the solved Easy, Medium and Hard boards, with where every domino goes. You can open it here: [Pips Answer for April 18, 2026](https://puzzles.newgamescout.com/answers/2026-04-18/).
+The page is split into 4 parts: Pips Easy answer, Apr 18; Pips Medium answer, Apr 18; Pips Hard answer, Apr 18; Questions. Start with the first one if you are short on time, and come back for the rest when you need the detail.
 
-## Pips Answer for December 28, 2025
-Pips hints and answers for December 28, 2025: step-by-step hints and the solved Easy, Medium and Hard boards, with where every domino goes. You can open it here: [Pips Answer for December 28, 2025](https://puzzles.newgamescout.com/answers/2025-12-28/).
-The page is split into 4 parts: Pips Easy answer, Dec 28; Pips Medium answer, Dec 28; Pips Hard answer, Dec 28; Questions. Start with the first one if you are short on time, and come back for the rest when you need the detail.
+## Pips Answer for February 13, 2026
+Pips hints and answers for February 13, 2026: step-by-step hints and the solved Easy, Medium and Hard boards, with where every domino goes. You can open it here: [Pips Answer for February 13, 2026](https://puzzles.newgamescout.com/answers/2026-02-13/).
+The page is split into 4 parts: Pips Easy answer, Feb 13; Pips Medium answer, Feb 13; Pips Hard answer, Feb 13; Questions. Start with the first one if you are short on time, and come back for the rest when you need the detail.
 
 ## How to use Pips Answers well
 
