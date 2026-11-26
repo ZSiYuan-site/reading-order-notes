@@ -79,3 +79,5 @@
 - [Printable Worksheets: a short checklist (11-25 no. 6)](ws-d1125/)
 
 - [Dash Breeze: questions people ask (11-25 no. 6)](dsh-d1125/)
+
+- [Pips Answers: notes for this week (11-26 no. 6)](pz-d1126/)
