@@ -91,3 +91,5 @@
 - [Trivia Nook: a quick way to use it (11-26 no. 6)](tv-d1126/)
 
 - [Recall Radar: a short checklist (11-26 no. 6)](rc-d1126/)
+
+- [ColorPageHub: a quick way to use it (11-26 no. 6)](cph-d1126/)
