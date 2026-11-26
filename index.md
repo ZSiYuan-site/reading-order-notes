@@ -101,3 +101,5 @@
 - [Printable Worksheets: questions people ask (11-26 no. 6)](ws-d1126/)
 
 - [Dash Breeze: notes for this week (11-26 no. 6)](dsh-d1126/)
+
+- [Reheat Turkey by Method: Oven, Microwave, Air Fryer and Slow Cooker](turkey-reheat-time-1126/)
