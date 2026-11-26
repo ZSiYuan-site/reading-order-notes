@@ -97,3 +97,5 @@
 - [State Law Watch: a quick way to use it (11-26 no. 6)](lw-d1126/)
 
 - [Countdown Hub: questions people ask (11-26 no. 6)](cd-d1126/)
+
+- [Printable Worksheets: questions people ask (11-26 no. 6)](ws-d1126/)
