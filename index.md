@@ -85,3 +85,5 @@
 - [Settlement Lookup: notes for this week (11-26 no. 6)](st-d1126/)
 
 - [Books in Order: which page to open first (11-26 no. 6)](bk-d1126/)
+
+- [Three Roblox Games, Three Different Code Situations](ngsc-codes-compare-1126/)
