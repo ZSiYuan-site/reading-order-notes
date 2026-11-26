@@ -89,3 +89,5 @@
 - [Three Roblox Games, Three Different Code Situations](ngsc-codes-compare-1126/)
 
 - [Trivia Nook: a quick way to use it (11-26 no. 6)](tv-d1126/)
+
+- [Recall Radar: a short checklist (11-26 no. 6)](rc-d1126/)
