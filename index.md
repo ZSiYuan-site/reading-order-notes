@@ -87,3 +87,5 @@
 - [Books in Order: which page to open first (11-26 no. 6)](bk-d1126/)
 
 - [Three Roblox Games, Three Different Code Situations](ngsc-codes-compare-1126/)
+
+- [Trivia Nook: a quick way to use it (11-26 no. 6)](tv-d1126/)
