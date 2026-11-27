@@ -107,3 +107,5 @@
 - [Pips Answers: a quick way to use it (11-27 no. 8)](pz-d1127/)
 
 - [Settlement Lookup: a quick way to use it (11-27 no. 8)](st-d1127/)
+
+- [Books in Order: questions people ask (11-27 no. 8)](bk-d1127/)
