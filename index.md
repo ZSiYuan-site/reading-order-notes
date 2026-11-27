@@ -113,3 +113,5 @@
 - [Trivia Nook: notes for this week (11-27 no. 8)](tv-d1127/)
 
 - [Recall Radar: how to find what you need (11-27 no. 8)](rc-d1127/)
+
+- [ColorPageHub: notes for this week (11-27 no. 8)](cph-d1127/)
