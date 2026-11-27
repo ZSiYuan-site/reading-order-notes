@@ -111,3 +111,5 @@
 - [Books in Order: questions people ask (11-27 no. 8)](bk-d1127/)
 
 - [Trivia Nook: notes for this week (11-27 no. 8)](tv-d1127/)
+
+- [Recall Radar: how to find what you need (11-27 no. 8)](rc-d1127/)
