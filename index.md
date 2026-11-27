@@ -119,3 +119,5 @@
 - [State Law Watch: notes for this week (11-27 no. 8)](lw-d1127/)
 
 - [Countdown Hub: which page to open first (11-27 no. 8)](cd-d1127/)
+
+- [Printable Worksheets: which page to open first (11-27 no. 8)](ws-d1127/)
