@@ -103,3 +103,5 @@
 - [Dash Breeze: notes for this week (11-26 no. 6)](dsh-d1126/)
 
 - [Reheat Turkey by Method: Oven, Microwave, Air Fryer and Slow Cooker](turkey-reheat-time-1126/)
+
+- [Pips Answers: a quick way to use it (11-27 no. 8)](pz-d1127/)
