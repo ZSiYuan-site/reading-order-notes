@@ -105,3 +105,5 @@
 - [Reheat Turkey by Method: Oven, Microwave, Air Fryer and Slow Cooker](turkey-reheat-time-1126/)
 
 - [Pips Answers: a quick way to use it (11-27 no. 8)](pz-d1127/)
+
+- [Settlement Lookup: a quick way to use it (11-27 no. 8)](st-d1127/)
