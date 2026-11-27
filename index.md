@@ -109,3 +109,5 @@
 - [Settlement Lookup: a quick way to use it (11-27 no. 8)](st-d1127/)
 
 - [Books in Order: questions people ask (11-27 no. 8)](bk-d1127/)
+
+- [Trivia Nook: notes for this week (11-27 no. 8)](tv-d1127/)
