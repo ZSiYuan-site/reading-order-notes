@@ -115,3 +115,5 @@
 - [Recall Radar: how to find what you need (11-27 no. 8)](rc-d1127/)
 
 - [ColorPageHub: notes for this week (11-27 no. 8)](cph-d1127/)
+
+- [State Law Watch: notes for this week (11-27 no. 8)](lw-d1127/)
