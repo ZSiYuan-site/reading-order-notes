@@ -123,3 +123,5 @@
 - [Printable Worksheets: which page to open first (11-27 no. 8)](ws-d1127/)
 
 - [Dash Breeze: a quick way to use it (11-27 no. 8)](dsh-d1127/)
+
+- [Pips Answers: a short checklist (11-28 no. 8)](pz-d1128/)
