@@ -127,3 +127,5 @@
 - [Pips Answers: a short checklist (11-28 no. 8)](pz-d1128/)
 
 - [Settlement Lookup: a short checklist (11-28 no. 8)](st-d1128/)
+
+- [Books in Order: notes for this week (11-28 no. 8)](bk-d1128/)
