@@ -129,3 +129,5 @@
 - [Settlement Lookup: a short checklist (11-28 no. 8)](st-d1128/)
 
 - [Books in Order: notes for this week (11-28 no. 8)](bk-d1128/)
+
+- [Trivia Nook: how to find what you need (11-28 no. 8)](tv-d1128/)
