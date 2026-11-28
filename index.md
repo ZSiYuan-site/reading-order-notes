@@ -139,3 +139,5 @@
 - [State Law Watch: how to find what you need (11-28 no. 8)](lw-d1128/)
 
 - [Countdown Hub: a quick way to use it (11-28 no. 8)](cd-d1128/)
+
+- [Printable Worksheets: a quick way to use it (11-28 no. 8)](ws-d1128/)
