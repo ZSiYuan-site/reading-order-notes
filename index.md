@@ -143,3 +143,5 @@
 - [Printable Worksheets: a quick way to use it (11-28 no. 8)](ws-d1128/)
 
 - [Dash Breeze: a short checklist (11-28 no. 8)](dsh-d1128/)
+
+- [Best Free Puzzle Games for a Five Minute Break](best-puzzle-games-for-short-breaks/)
